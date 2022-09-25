@@ -13,6 +13,7 @@
     </head>
     <body>
         <h1>Hola mundillo</h1>
+        <h1>Soy Stefania Muñoz Carvajal :)</h1>
         <a href="control">Verificar servlet  objecto response</a>
         <form action="control" method="GET">
             <label>Nombres: </label>
